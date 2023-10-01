@@ -1,7 +1,7 @@
 # DHT_InfluxDB
 
 This is a simple DHT sensor data logger with InfluxDB.
-![image](https://github.com/AndreIglesias/DHT_InfluxDB/assets/35022933/5c95e372-5416-4bb1-b0c4-ce3dc8eed9de)
+![image](data_grafana.png)
 
 ## Policy
 Data duration: `1 year`
