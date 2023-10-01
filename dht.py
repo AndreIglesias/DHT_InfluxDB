@@ -4,7 +4,7 @@ import time
 
 DHT_SENSOR = Adafruit_DHT.DHT11
 DHT_PIN = 4
-DLT_EACH = 518400 # 5 seconds in a month
+DLT_EACH = 518400 # Delete data older than 365 days once a month
 COUNTER = 0
 
 # InfluxDB configuration
